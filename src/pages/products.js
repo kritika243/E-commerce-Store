@@ -13,4 +13,9 @@ import { store } from '../store.js'
 import display from '../displayProducts.js'
 import { getElement } from '../utils.js'
 
+const loading = getElement('.page-loading')
+
 display(store, getElement('.products-container'))
+
+// hide loading once we have got the products
+loading.style.display = 'none'
