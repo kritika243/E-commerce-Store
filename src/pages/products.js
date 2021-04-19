@@ -17,6 +17,7 @@ const loading = getElement('.page-loading')
 
 display(store, getElement('.products-container'))
 setupSearch(store)
+setupCompanies(store)
 
 // hide loading once we have got the products
 loading.style.display = 'none'
