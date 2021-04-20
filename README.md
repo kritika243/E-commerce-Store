@@ -1,5 +1,7 @@
 # Comfy Store | E-commerce-Store
 
+* Fully responsive
+
 <h3><ul>
 <li>Has a Home Page</li>
 <li>Featured Products on Home Page</li>
@@ -14,6 +16,9 @@
 <li>Total and Checkout</li>
 </ul></h3>
 
+<br> <br>
+
+<h4>Demo :- </h4>
 ![Preview GIF](https://github.com/kritika243/E-commerce-Store/blob/main/Demo/demo.gif)
 
 
