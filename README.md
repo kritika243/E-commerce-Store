@@ -16,9 +16,8 @@
 <li>Total and Checkout</li>
 </ul></h3>
 
-<br> <br>
 
-<h4>Demo :- </h4>
+
 ![Preview GIF](https://github.com/kritika243/E-commerce-Store/blob/main/Demo/demo.gif)
 
 
