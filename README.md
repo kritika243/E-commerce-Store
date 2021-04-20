@@ -11,6 +11,7 @@
 <li>✨Filter products based on Price</li>
 <li>✨Search Products in SearchBar</li>
 <li>✨Add Products to Cart</li>
+ <li>✨Persist the Cart info through all pages and even on re-load</li>
 <li>✨Update Cart</li>
 <li>✨Remove from Cart</li>
 <li>Total and Checkout</li>
