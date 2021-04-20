@@ -28,7 +28,27 @@ export const addToCart = (id) => {
   } else {
     // update values
   }
+  // add one to the item count
+  displayCartItemCount()
+  // display card total correctly
+  displayCartTotal()
+  // set cart in local storage
+  setStorageItem('cart', cart)
   openCart()
+}
+
+function displayCartItemCount() {
+  const amount = cart.reduce((total, cartItem) => {
+    return (total += cartItem.amount)
+  }, 0)
+  cartItemCountDOM.textContent = amount
+}
+
+function displayCartTotal() {
+  let total = cart.reduce((total, cartItem) => {
+    return (total += cartItem.price * cartItem.amount)
+  }, 0)
+  cartTotalDOM.textContent = `Total : ${formatPrice(total)}`
 }
 
 const init = () => {}
