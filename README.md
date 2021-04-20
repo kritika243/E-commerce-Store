@@ -14,4 +14,7 @@
 <li>Total and Checkout</li>
 </ul></h3>
 
-Link - https://kritika243.github.io/E-commerce-Store/
+![Preview GIF](https://github.com/kritika243/E-commerce-Store/blob/main/Demo/demo.gif)
+
+
+Live at - https://kritika243.github.io/E-commerce-Store/
