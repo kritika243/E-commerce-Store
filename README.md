@@ -1,6 +1,6 @@
 # Comfy Store | E-commerce-Store
 
-* Fully responsive
+* ✔ Fully responsive
 
 <h3><ul>
 <li>Has a Home Page</li>
