@@ -14,4 +14,8 @@
 <li>Total and Checkout</li>
 </ul></h3>
 
+<video width="320" height="240" controls>
+  <source src="Demo\demo.mp4" type="video/mp4">
+</video>
+
 Link - https://kritika243.github.io/E-commerce-Store/
